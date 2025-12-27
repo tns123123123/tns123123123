@@ -1,0 +1,4 @@
+{
+  "files": ["exact_filename.txt", "another.dat"],
+  "keywords": ["SomeKeyword", "AnotherKeyword"]
+}
